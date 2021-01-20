@@ -45,4 +45,4 @@ and so on, until you have confidence from your tests that your code works as int
 
 ## Exercise 2: Commentary and reflection
 
-> 🎯 **Success criterion:** documented reflections.
+> 🎯 a**Success criterion:** documented reflections.
