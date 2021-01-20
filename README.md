@@ -20,6 +20,11 @@ tags:
 
 FizzBuzz is a coding interview classic. In this project, you're going to write a solution for it and begin using TDD in the process.
 
+## Learning Outcomes
+
+- Write code to the specification of tests
+- Use a test-driven development process
+
 ## Exercise 1: Producing a solution for FizzBuzz
 
 > 🎯 **Success criterion:** All the tests in `test_fizzbuzz.py` pass
